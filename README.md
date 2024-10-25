@@ -4,5 +4,4 @@
 
 БСМО-10-24
 
-Полная интерактивная версия графа представлена по [ссылке](https://colab.research.google.com/drive/1By25tPWtu8BHESCRBKVA8p7lCwgfYgD3?usp=sharing&clckid=63e443f0)
 
